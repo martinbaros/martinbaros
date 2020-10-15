@@ -4,7 +4,6 @@
 <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=martinbaros&count_private=true&theme=radical"/>
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
