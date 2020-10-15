@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=martinbaros&count_private=true&theme=radical&hide=stars,prs,issues,contribs"/>
+<img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=martinbaros&count_private=true&theme=radical&hide=stars,prs,issues,contribs"/>
 
 
 
