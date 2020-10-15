@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinbaros&count_private=true)
+![Martin's github stats](https://github-readme-stats.vercel.app/api?username=martinbaros&count_private=true&theme=radical)
 <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=martinbaros&theme=radical&hide=stars,commits,prs,issues,contribs" />
 
 
