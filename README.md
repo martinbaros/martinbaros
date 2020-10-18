@@ -3,14 +3,11 @@
 <a href="https://github.com/martinbaros">
 <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=martinbaros&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>  
-  
+<!--  
 <a href="https://github.com/martinbaros">
 <img align="center" src = "https://github-readme-stats.vercel.app/api?username=martinbaros&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide=stars,prs,issues,contribs"/>  
 </a>
-
-<a href="https://github.com/martinbaros/hackerrank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=martinbaros&repo=hackerrank&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+-->
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=atom&logoColor=white&color=2bbc8a)
