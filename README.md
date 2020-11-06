@@ -1,9 +1,12 @@
-### Hello there :grey_exclamation: My name is Martin Baroš and I am aspiring software depeloper
+### Hello there :wave: My name is Martin Baroš and I am aspiring software depeloper
 
 - 🧠 I'm currently taking [Google IT Automation with Python Professional Certification](https://www.coursera.org/professional-certificates/google-it-automation) at Coursera
 - :chart_with_upwards_trend: Passionate about AI and software development in general.
 - :pencil2: UI/UX Designer
-
+- ⚡ Fun facts:
+  - :headphones: I have been playing the drums for 14 years
+  - :black_joker: I have been doing [magic  for the last 5 years](https://www.instagram.com/mnmkemnm/)
+  
 <a href="https://github.com/martinbaros">
 <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=martinbaros&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </a>  
