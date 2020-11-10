@@ -5,7 +5,7 @@
 - :pencil2: UI/UX Designer
 - ⚡ Fun facts:
   - :headphones: I have been playing the drums for 14 years
-  - :black_joker: I have been doing [magic  for the last 5 years](https://www.instagram.com/mnmkemnm/)
+  - :black_joker: I have been doing [magic tricks  for the last 5 years](https://www.instagram.com/mnmkemnm/)
   
 <a href="https://github.com/martinbaros">
 <img align="center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=martinbaros&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
